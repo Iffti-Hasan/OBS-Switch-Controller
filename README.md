@@ -1,7 +1,7 @@
 **<h1>🎛️ OBS Switch Controller</h1>**
-**A hardware-based HCI solution designed to simplify and enhance live broadcasting control in OBS Studio using an ESP32 microcontroller.
-The OBS Switch Controlle* replaces complex keyboard shortcuts with a dedicated hardware interface. It allows streamers to control essential OBS functions such as start/stop streaming, recording, muting audio or switching scenes  all through physical buttons with LED feedback.
-This project focuses on Human–Computer Interaction (HCI) principles to improve efficiency, usability and focus during live streaming sessions.**
+*A hardware-based HCI solution designed to simplify and enhance live broadcasting control in OBS Studio using an ESP32 microcontroller.
+The OBS Switch Controlle replaces complex keyboard shortcuts with a dedicated hardware interface. It allows streamers to control essential OBS functions such as start/stop streaming, recording, muting audio or switching scenes  all through physical buttons with LED feedback.
+This project focuses on Human–Computer Interaction (HCI) principles to improve efficiency, usability and focus during live streaming sessions.*
 
 <p align="center"><kbd>
   <img src="https://github.com/Iffti-Hasan/OBS-Switch-Controller/blob/main/Prototype_Pictures/IMG_5775.jpg" alt="OBS Switch Prototype 1" width="300" height="500" />
